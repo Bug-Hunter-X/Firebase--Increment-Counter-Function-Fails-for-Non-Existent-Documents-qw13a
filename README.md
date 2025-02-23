@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Firebase when incrementing a counter in a Firestore document. The initial code fails to handle cases where the document doesn't exist. The solution provides a robust implementation that handles both existing and non-existent documents.
